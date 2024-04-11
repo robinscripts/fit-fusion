@@ -35,7 +35,7 @@ This website is compatible with modern web browsers such as Google Chrome, Mozil
 
 ## Credits:
 
-- `Font Awesome` - Icons used in the project.
+- `Remix Icon` - Icons used in the project.
 - `Google Fonts` - Fonts used in the project.
 - Testimonial carousel inspired by Slick Carousel.
 - Smooth scrolling functionality adapted from W3Schools.

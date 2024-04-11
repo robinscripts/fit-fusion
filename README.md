@@ -2,6 +2,10 @@
 
 This repository contains the source code for a fitness website built using HTML, CSS, and JavaScript. The website features smooth scrolling navigation, a testimonial carousel, and a contact form with input validation.
 
+## Demo
+
+Click for live demo [Fit Fusion](https://robinscripts.github.io/fit-fusion/).
+
 ## Features
 
 - Smooth scrolling navigation
@@ -20,6 +24,7 @@ This repository contains the source code for a fitness website built using HTML,
 
 To use this website, simply clone the repository and open the `index.html` file in a web browser.
 
+To clone open git bash copy following command then paste and Then press Enter
 ```
 bash
 git clone https://github.com/robinscripts/fit-fusion.git
